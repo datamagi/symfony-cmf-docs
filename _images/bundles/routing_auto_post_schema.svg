@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="402.30059"
-     inkscape:cy="250.71665"
+     inkscape:zoom="0.7"
+     inkscape:cx="430.7514"
+     inkscape:cy="300.15042"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -303,5 +303,161 @@
        inkscape:export-filename="/home/daniel/www/symfony-cmf/symfony-cmf-docs/_images/bundles/routing_auto_post_schema.png"
        inkscape:export-xdpi="56.110001"
        inkscape:export-ydpi="56.110001" />
+    <text
+       inkscape:export-ydpi="56.110001"
+       inkscape:export-xdpi="56.110001"
+       inkscape:export-filename="/home/daniel/www/symfony-cmf/symfony-cmf-docs/_images/bundles/routing_auto_post_schema.png"
+       sodipodi:linespacing="125%"
+       id="text3334"
+       y="894.45929"
+       x="43.843086"
+       style="font-size:35.37589645px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="894.45929"
+         x="43.843086"
+         id="tspan3336"
+         sodipodi:role="line">/forum/my-new-forum</tspan></text>
+    <path
+       inkscape:export-ydpi="56.110001"
+       inkscape:export-xdpi="56.110001"
+       inkscape:export-filename="/home/daniel/www/symfony-cmf/symfony-cmf-docs/_images/bundles/routing_auto_post_schema.png"
+       sodipodi:nodetypes="cc"
+       style="fill:#88aa00;stroke:#89a02c;stroke-width:8.84397411;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 45.950285,913.30015 389.036095,0"
+       id="path3342"
+       inkscape:connector-curvature="0" />
+    <text
+       inkscape:export-ydpi="56.110001"
+       inkscape:export-xdpi="56.110001"
+       inkscape:export-filename="/home/daniel/www/symfony-cmf/symfony-cmf-docs/_images/bundles/routing_auto_post_schema.png"
+       xml:space="preserve"
+       style="font-size:35.37589645px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="447.08969"
+       y="899.00616"
+       id="text3344"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3346"
+         x="447.08969"
+         y="899.00616">/my-topic</tspan></text>
+    <path
+       inkscape:export-ydpi="56.110001"
+       inkscape:export-xdpi="56.110001"
+       inkscape:export-filename="/home/daniel/www/symfony-cmf/symfony-cmf-docs/_images/bundles/routing_auto_post_schema.png"
+       inkscape:connector-curvature="0"
+       id="path3350"
+       d="m 445.5817,913.30015 c 46.64667,0 75.8098,0 178.7146,0"
+       style="fill:#000080;stroke:#000080;stroke-width:8.84397411;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:export-ydpi="56.110001"
+       inkscape:export-xdpi="56.110001"
+       inkscape:export-filename="/home/daniel/www/symfony-cmf/symfony-cmf-docs/_images/bundles/routing_auto_post_schema.png"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path3352"
+       d="m 38.571429,881.32018 0,-24.28572 399.487271,0 0,22.85714"
+       style="fill:none;stroke:#aa4400;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       inkscape:export-ydpi="56.110001"
+       inkscape:export-xdpi="56.110001"
+       inkscape:export-filename="/home/daniel/www/symfony-cmf/symfony-cmf-docs/_images/bundles/routing_auto_post_schema.png"
+       sodipodi:linespacing="125%"
+       id="text3354"
+       y="844.39062"
+       x="36.528755"
+       style="font-size:25.23857498px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#803300;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="844.39062"
+         x="36.528755"
+         id="tspan3356"
+         sodipodi:role="line">content path</tspan></text>
+    <path
+       inkscape:export-ydpi="56.110001"
+       inkscape:export-xdpi="56.110001"
+       inkscape:export-filename="/home/daniel/www/symfony-cmf/symfony-cmf-docs/_images/bundles/routing_auto_post_schema.png"
+       style="fill:none;stroke:#0b2228;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 448.92526,881.32018 0,-24.28572 173.52428,0 0,22.85714"
+       id="path3358"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <text
+       inkscape:export-ydpi="56.110001"
+       inkscape:export-xdpi="56.110001"
+       inkscape:export-filename="/home/daniel/www/symfony-cmf/symfony-cmf-docs/_images/bundles/routing_auto_post_schema.png"
+       xml:space="preserve"
+       style="font-size:25.23857498px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#002b22;fill-opacity:1;stroke:none;font-family:Sans"
+       x="447.66086"
+       y="845.9259"
+       id="text3360"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3362"
+         x="447.66086"
+         y="845.9259">content name</tspan></text>
+    <text
+       inkscape:export-ydpi="56.110001"
+       inkscape:export-xdpi="56.110001"
+       inkscape:export-filename="/home/daniel/www/symfony-cmf/symfony-cmf-docs/_images/bundles/routing_auto_post_schema.png"
+       sodipodi:linespacing="125%"
+       id="text3364"
+       y="935.1889"
+       x="44.533573"
+       style="font-size:21.54123497px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="935.1889"
+         x="44.533573"
+         id="tspan3366"
+         sodipodi:role="line">path unit</tspan></text>
+    <text
+       inkscape:export-ydpi="56.110001"
+       inkscape:export-xdpi="56.110001"
+       inkscape:export-filename="/home/daniel/www/symfony-cmf/symfony-cmf-docs/_images/bundles/routing_auto_post_schema.png"
+       sodipodi:linespacing="125%"
+       id="text3372"
+       y="1009.3489"
+       x="259.86993"
+       style="font-size:17.11979294px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="1009.3489"
+         x="259.86993"
+         id="tspan3374"
+         sodipodi:role="line">path elements</tspan></text>
+    <path
+       inkscape:export-ydpi="56.110001"
+       inkscape:export-xdpi="56.110001"
+       inkscape:export-filename="/home/daniel/www/symfony-cmf/symfony-cmf-docs/_images/bundles/routing_auto_post_schema.png"
+       inkscape:connector-curvature="0"
+       id="path3376"
+       d="m 45.383932,953.70625 116.368498,0"
+       style="fill:#0055d4;stroke:#0044aa;stroke-width:8.84397411;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:export-ydpi="56.110001"
+       inkscape:export-xdpi="56.110001"
+       inkscape:export-filename="/home/daniel/www/symfony-cmf/symfony-cmf-docs/_images/bundles/routing_auto_post_schema.png"
+       inkscape:connector-curvature="0"
+       id="path3382"
+       d="m 168.44456,953.70625 265.3522,0"
+       style="fill:#88aa00;stroke:#2a7fff;stroke-width:8.84397411;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:export-ydpi="56.110001"
+       inkscape:export-xdpi="56.110001"
+       inkscape:export-filename="/home/daniel/www/symfony-cmf/symfony-cmf-docs/_images/bundles/routing_auto_post_schema.png"
+       inkscape:connector-curvature="0"
+       id="path3384"
+       d="m 446.51602,953.70625 175.15529,0"
+       style="fill:#0055d4;stroke:#0044aa;stroke-width:8.84397411;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:export-ydpi="56.110001"
+       inkscape:export-xdpi="56.110001"
+       inkscape:export-filename="/home/daniel/www/symfony-cmf/symfony-cmf-docs/_images/bundles/routing_auto_post_schema.png"
+       inkscape:connector-curvature="0"
+       id="path3390"
+       d="M 52.527932,965.48906 312.97907,988.72257 618.57019,965.48906"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="ccc" />
   </g>
 </svg>
